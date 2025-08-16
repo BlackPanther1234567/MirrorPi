@@ -16,8 +16,8 @@ An IoT-based Smart Mirror that displays:
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/MirroPi-SmartMirror.git
-   cd MirroPi-SmartMirror
+   git clone https://github.com/BlackPanther1234567/MirrorPi.git
+   cd MirroPi
    ```
 2. Install dependencies:
    ```bash
